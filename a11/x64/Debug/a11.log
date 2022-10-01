@@ -1,0 +1,13 @@
+﻿  repository.cpp
+  validators.cpp
+  a11.cpp
+  comparator.cpp
+  controller.cpp
+  domain.cpp
+  exceptions.cpp
+  GUI.cpp
+  main.cpp
+  qrc_a11.cpp
+  moc_a11.cpp
+  moc_GUI.cpp
+  a11.vcxproj -> C:\Users\User\Desktop\UBB-personal-projects-assignments\OOP\a11-12-914-Mihai-Alexandru\a11\x64\Debug\a11.exe

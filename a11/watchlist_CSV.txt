@@ -1,0 +1,3 @@
+C Video Tutorial,Derek Banas,23,54,4100,https://www.youtube.com/watch?v=nXvy5900m3M
+15 Python Projects,Tech With Tim,12,36,54000,https://www.youtube.com/watch?v=OXi4T58PwdM
+POINTERS in C++,The Cherno,16,58,26000,https://youtu.be/DTxHyVn0ODg

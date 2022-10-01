@@ -1,0 +1,5 @@
+POINTERS in C++,The Cherno,16,58,26000,https://youtu.be/DTxHyVn0ODg
+Arrays in C++,The Cherno,18,30,9700,https://www.youtube.com/watch?v=ENDaJi08jCU
+Knapsack Problem - Greedy Method,Abdul Bari,15,29,24000,https://www.youtube.com/watch?v=oTTzNMHM05I
+15 Python Projects,Tech With Tim,12,36,54000,https://www.youtube.com/watch?v=OXi4T58PwdM
+C Video Tutorial,Derek Banas,23,54,4100,https://www.youtube.com/watch?v=nXvy5900m3M
